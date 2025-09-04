@@ -126,7 +126,7 @@ st.set_page_config(page_title="Agente IA HAMILTON RAMOS", page_icon=LOGO_PATH)
 
 # Cabeçalho da aplicação
 st.image(LOGO_PATH, width=100)
-st.title("Agente IA HAMILTON RAMOS")
+st.title("Agente IA HAMILTON RAMOS.")
 st.caption("Especialista em segurança na aplicação de agroquímicos.")
 
 # Inicialização do estado da sessão
