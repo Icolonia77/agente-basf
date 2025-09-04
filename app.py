@@ -28,7 +28,7 @@ load_dotenv()
 
 # Definição de constantes para fácil manutenção
 PDF_PATH = "manual-de-seguranca-na-aplicacao-de-agroquimicos-2021.pdf"
-LOGO_PATH = "assets/Logo_IAC_20250519.JPEG"
+LOGO_PATH = "assets/Logo_IAC_20250519.jpeg"
 OPENAI_MODEL_NAME = "gpt-4o-mini"
 EMBEDDING_MODEL_NAME = "text-embedding-3-small"
 MODEL_TEMPERATURE = 0.2
